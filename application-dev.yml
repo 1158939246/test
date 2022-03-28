@@ -1,3 +1,4 @@
-spring:
-  application:
-    name-config: hhh
+mysql:
+  user: sas
+person:
+  name: lll
